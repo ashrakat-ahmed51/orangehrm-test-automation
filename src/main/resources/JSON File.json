@@ -1,0 +1,12 @@
+{
+  "First name": "Test",
+  "Middle name": "Test",
+  "last name": "Test",
+  "Employee ID": "123456789",
+  "Create Login Details": true,
+  "username": "Testing",
+  "status": true,
+  "password": "123456789a",
+  "Confirm Password": "123456789a",
+  "role": "ESS"
+}
